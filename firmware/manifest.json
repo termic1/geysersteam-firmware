@@ -1,12 +1,12 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.3",
   "devices": {
     "default": {
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware/cyd_remote.bin"
     },
     "14335C09C9C0": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware/cyd_special.bin"
     }
   }
