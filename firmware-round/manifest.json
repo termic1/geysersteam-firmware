@@ -1,13 +1,13 @@
 {
-  "latest": "1.1.0",
+  "latest": "1.0.0",
   "devices": {
     "default": {
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/cyd_remote.bin"
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_remote.bin"
     },
     "AABBCCDDEE": {
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/cyd_special.bin"
+      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_special.bin"
     }
   }
 }
