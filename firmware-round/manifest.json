@@ -12,6 +12,10 @@
     "1CDBD4456EA0": {
       "version": "2.3.5",
       "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_special.bin"
+    },
+    "9C139EAC54F8": {
+      "version": "2.3.6",
+      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_special.bin"
     }
   }
 }
