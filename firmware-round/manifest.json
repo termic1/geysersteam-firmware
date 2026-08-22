@@ -1,5 +1,5 @@
 {
-  "latest": "2.3.6",
+  "latest": "2.3.7",
   "devices": {
     "default": {
       "version": "2.3.6",
@@ -14,8 +14,8 @@
       "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_special.bin"
     },
     "9C139EAC54F8": {
-      "version": "2.3.6",
-      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_remote.bin"
+      "version": "2.3.7",
+      "url": "https://raw.githubusercontent.com/termic1/geysersteam-firmware/main/firmware-round/round_specialNaples.bin"
     }
   }
 }
